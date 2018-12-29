@@ -1,4 +1,4 @@
-# Register e Login - Autenticação JWT e Passport - NestJs + MongoDB
+# Registro e Login - Autenticação JWT e Passport - NestJs + MongoDB
 
 Boilerplate de Registro e Login de usuário usando [NestJs](https://github.com/nestjs/nest/) conectado ao [MondoDB](https://github.com/mongodb/mongo).<br><br>
 Para a autenticação é usado o [JWT](https://jwt.io/) com [Passport](http://www.passportjs.org/)
